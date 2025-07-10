@@ -1,3 +1,5 @@
+![Capture](https://github.com/user-attachments/assets/bf54818a-eff3-4d24-af9e-1b2e8f2d3761)
+
 # CreditcardDB_building
 Credit Card Report – Revenue, Usage Patterns & Customer Segments
 This Power BI dashboard provides an in-depth analysis of credit card revenue performance, transaction patterns, and customer segmentation across different demographics and usage types.
